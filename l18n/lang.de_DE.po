@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Content-Transfer-Encoding: 8bit\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: de\n"
+"Last-Translator: Benjamin Schmid <benjamin.schmid@check24.es>\n"
+"MIME-Version: 1.0\n"
+"PO-Revision-Date: 2020-12-23 11:37+0000\n"
+"Plural-Forms: nplurals=3; plural=(n == 0) ? 0 : (n == 1) ? 1 : 2;\n"
+"X-Generator: Weblate 4.2.1\n"
+
+# Größeres Auto
+#, 23.03.2021 07:55:16
+msgid "featured_offer_bigger_car__text"
+msgstr "Größeres Auto"
+
+# Secret Offer
+#, 23.03.2021 07:55:16
+msgid "secret_offer_teaser_label"
+msgstr "Secret Offer"
+
+# GoldClub Offer
+#, 23.03.2021 07:55:16
+msgid "goldclub_offer_teaser_label"
+msgstr "GoldClub Offer"
+
+# NAVI gratis
+#, 23.03.2021 07:55:16
+msgid "inclusive_offer_teaser_label"
+msgstr "NAVI gratis"
+
+# Sie erhalten einen PAYBACK Punkt für jeden zweiten vollen Euro der Fahrzeugmiete (inkl. ausgewiesener Gebühren).
+# Auf zusätzlich von Ihnen gewählte Versicherungen und Extras bekommen Sie keine PAYBACK Punkte.<br />
+# Ihre PAYBACK Punkte werden Ihnen spätestens 3 Werktage nach Buchung des Mietwagens in gesperrter Form
+# gutgeschrieben. Die Freigabe Ihrer PAYBACK Punkte erfolgt 4 Wochen nach Fahrzeugrückgabe.<br />
+# PAYBACK Buchungen sind nicht mit anderen CHECK24-Aktionen kombinierbar.
+#, 23.03.2021 07:55:16
+msgid "payback_offer_text"
+msgstr ""
+"        Sie erhalten einen PAYBACK Punkt für jeden zweiten vollen Euro der Fahrzeugmiete (inkl. ausgewiesener Gebühren).\n"
+"        Auf zusätzlich von Ihnen gewählte Versicherungen und Extras bekommen Sie keine PAYBACK Punkte.<br />\n"
+"        Ihre PAYBACK Punkte werden Ihnen spätestens 3 Werktage nach Buchung des Mietwagens in gesperrter Form\n"
+"        gutgeschrieben. Die Freigabe Ihrer PAYBACK Punkte erfolgt 4 Wochen nach Fahrzeugrückgabe.<br />\n"
+"        PAYBACK Buchungen sind nicht mit anderen CHECK24-Aktionen kombinierbar.\n"
+"    "
+
+# Inkl. Navigationssystem
+#, 23.03.2021 07:55:16
+msgid "filter_id_rentalcar_navigation"
+msgstr "Inkl. Navigationssystem"
+
+# Inkl. Zusatzfahrer
+#, 23.03.2021 07:55:16
+msgid "filter_id_rentalcar_additional_drivers"
+msgstr "Inkl. Zusatzfahrer"
+
+# <span class=\"station-icon icon-symbols-city\">Stadt</span><span class=\"label\">Station</span>
+#, 23.03.2021 07:55:16
+msgid "rentalcar_station_infos_city_filter"
+msgstr "<span class=\"station-icon icon-symbols-city\">Stadt</span><span class=\"label\">Station</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">Station</span>
+#, 23.03.2021 07:55:16
+msgid "rentalcar_station_infos_single_airport_filter"
+msgstr "<span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">Station</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">%s</span>
+#, 23.03.2021 07:55:16
+msgid "rentalcar_station_infos_airport_filter"
+msgstr "<span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">%s</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">%s / %s</span>
+#, 23.03.2021 07:55:16
+msgid "rentalcar_station_infos_iata_airport_filter"
+msgstr "<span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">%s / %s</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">Station</span>
+#, 23.03.2021 07:55:16
+msgid "rentalcar_station_infos_multiple_airport_filter"
+msgstr "<span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">Station</span>"
+
+# <strong>%s</strong>
+#, 23.03.2021 07:55:16
+msgid "filter_station_selection_text_airport"
+msgstr "<strong>%s</strong>"
+
+# <strong>%s</strong>
+#, 23.03.2021 07:55:16
+msgid "filter_station_selection_text_railway"
+msgstr "<strong>%s</strong>"
+
+# <strong>%s</strong>
+#, 23.03.2021 07:55:16
+msgid "filter_station_selection_text_city"
+msgstr "<strong>%s</strong>"
+
+# <strong>%d Station</strong>
+#, 23.03.2021 07:55:16
+msgid "filter_station_selection_text_station"
+msgstr "<strong>%d Station</strong>"
+
+# <strong>%d Stationen</strong>
+#, 23.03.2021 07:55:16
+msgid "filter_station_selection_text_stations"
+msgstr "<strong>%d Stationen</strong>"
+
+# Empfehlung der Redaktion
+#, 23.03.2021 07:55:16
+msgid "rating_product_cheapest"
+msgstr "Empfehlung der Redaktion"
+
+# Mit Zusatzschutz
+#, 23.03.2021 07:55:16
+msgid "rating_product_insurance_additional_included"
+msgstr "Mit Zusatzschutz"
+
+# Ohne Zusatzschutz
+#, 23.03.2021 07:55:16
+msgid "rating_product_insurance_additional_none"
+msgstr "Ohne Zusatzschutz"
+
+# Haftpflichtdeckung %h.s
+#, 23.03.2021 07:55:16
+msgid "rating_product_insurance_liability"
+msgstr "Haftpflichtdeckung %h.s"
+
+# Ohne Selbstbeteiligung
+#, 23.03.2021 07:55:16
+msgid "rating_product_insurance_deductible_withoutSb"
+msgstr "Ohne Selbstbeteiligung"
+
+# Mit Selbstbeteiligung
+#, 23.03.2021 07:55:16
+msgid "rating_product_insurance_deductible_withSb"
+msgstr "Mit Selbstbeteiligung"
+
+# Unbegrenzte Freikilometer
+#, 23.03.2021 07:55:16
+msgid "rating_product_free_miles_unlimited"
+msgstr "Unbegrenzte Freikilometer"
+
+# Begrenzte Freikilometer
+#, 23.03.2021 07:55:16
+msgid "rating_product_free_miles_limited"
+msgstr "Begrenzte Freikilometer"
+
+# Freikilometer unbekannt
+#, 23.03.2021 07:55:16
+msgid "rating_product_free_miles_unknown"
+msgstr "Freikilometer unbekannt"
+
+# Tankregelung %s
+#, 23.03.2021 07:55:16
+msgid "rating_product_fuel_policy"
+msgstr "Tankregelung %s"
+
+#, 14.10.2022 14:22:18
+msgid "rating_product_charge_policy"
+msgstr "Laderegelung %s"
+
+# Sofort verfügbar
+#, 23.03.2021 07:55:16
+msgid "rating_product_status_available"
+msgstr "Sofort verfügbar"
+
+# Verfügbarkeit auf Anfrage
+#, 23.03.2021 07:55:16
+msgid "rating_product_status_on_request"
+msgstr "Verfügbarkeit auf Anfrage"
+
+# keine Extras inklusive
+#, 23.03.2021 07:55:16
+msgid "rating_product_extras_none"
+msgstr "keine Extras inklusive"
+
+# inklusive %s
+#, 23.03.2021 07:55:16
+msgid "rating_product_extras_included"
+msgstr "inklusive %s"
+
+# Anbieter %s
+#, 23.03.2021 07:55:16
+msgid "rating_supplier_label"
+msgstr "Anbieter %s"
+
+# Kundenempfehlungsquote
+#, 23.03.2021 07:55:16
+msgid "rating_supplier_general"
+msgstr "Kundenempfehlungsquote"
+
+# Kundenempfehlungsquote <span class=\"detail\">%s%%</span>
+#, 23.03.2021 07:55:16
+msgid "rating_supplier_general_quote"
+msgstr "Kundenempfehlungsquote <span class=\"detail\">%s%%</span>"
+
+# Service <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16
+msgid "rating_supplier_claims"
+msgstr "Service <span class=\"detail\">%s</span>"
+
+# Schadensbearbeitung <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16
+msgid "rating_points_supplier_claims"
+msgstr "Schadensbearbeitung <span class=\"detail\">%s</span>"
+
+# Reklamation/Kulanz <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16
+msgid "rating_supplier_refund"
+msgstr "Reklamation/Kulanz <span class=\"detail\">%s</span>"
+
+# Vermieter %s
+#, 25.02.2022 10:43:18
+msgid "rating_renter_label"
+msgstr "Vermieter %s"
+
+# Lokaler Vermieter
+#, 18.03.2024 09:16:40
+msgid "rating_renter_unknown_label"
+msgstr "Lokaler Vermieter"
+
+# Kundenempfehlungsquote <span class=\"detail\">%s%%</span>
+#, 23.03.2021 07:55:16
+msgid "rating_renter_feedback"
+msgstr "Kundenempfehlungsquote <span class=\"detail\">%s%%</span>"
+
+# Kundenempfehlungsquote
+#, 23.03.2021 07:55:16
+msgid "rating_renter_feedback_none_label"
+msgstr "Kundenempfehlungsquote"
+
+# -
+#, 23.03.2021 07:55:16
+msgid "rating_renter_feedback_none"
+msgstr "-"
+
+# Service vor Ort <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16
+msgid "rating_renter_service"
+msgstr "Service vor Ort <span class=\"detail\">%s</span>"
+
+# Beliebte Filter
+#, 23.03.2021 07:55:16
+msgid "category_id_category_popular"
+msgstr "Beliebte Filter"
+
+# Kundenbewertungen
+#, 23.03.2021 07:55:16
+msgid "category_id_rating"
+msgstr "Kundenbewertungen"
+
+# Kundenbewertungen
+#, 23.03.2021 07:55:16
+msgid "category_id_renter_rating"
+msgstr "Kundenbewertungen"
+
+# Vermieter / Anbieter
+#, 23.03.2021 07:55:16
+msgid "category_id_renter_supplier"
+msgstr "Vermieter / Anbieter"
+
+# weitere Leistungen
+#, 23.03.2021 07:55:16
+msgid "category_id_additional_services"
+msgstr "weitere Leistungen"
+
+# Sitzanzahl
+#, 23.03.2021 07:55:16
+msgid "category_id_persons"
+msgstr "Sitzanzahl"
+
+# Abholstation
+#, 23.03.2021 07:55:16
+msgid "group_id_departure"
+msgstr "Abholstation"
+
+# Rückgabestation
+#, 23.03.2021 07:55:16
+msgid "group_id_dest"
+msgstr "Rückgabestation"
+
+# Abholstation
+#, 23.03.2021 07:55:16
+msgid "category_id_departure"
+msgstr "Abholstation"
+
+# Fahrzeugklasse
+#, 23.03.2021 07:55:16
+msgid "category_id_size_type"
+msgstr "Fahrzeugklasse"
+
+# Tankregelung
+#, 23.03.2021 07:55:16
+msgid "category_id_fuel_policy"
+msgstr "Tankregelung"
+
+#, 14.10.2022 10:47:04
+msgid "category_id_charge_policy"
+msgstr "Laderegelung"
+
+# Versicherungsschutz
+#, 23.03.2021 07:55:16
+msgid "category_id_insurance"
+msgstr "Versicherungsschutz"
+
+# Zusatzversicherungen
+#, 23.03.2021 07:55:16
+msgid "category_id_additional_insurance"
+msgstr "Zusatzversicherungen"
+
+# Bei der Einwegmiete von %s nach %s kann der Anbieter eine zusätzliche Einweggebühr erheben, die nicht in den angezeigten Preisen enthalten ist. Ob eine Einweggebühr anfällt und wieviel die Einweggebühr beträgt, finden Sie unter \"Kosten vor Ort\" im Angebot oder in den Mietbedingungen.
+#, 23.03.2021 07:55:16
+msgid "note_additional_costs_for_one_way"
+msgstr "Bei der Einwegmiete von %s nach %s kann der Anbieter eine zusätzliche Einweggebühr erheben, die nicht in den angezeigten Preisen enthalten ist. Ob eine Einweggebühr anfällt und wieviel die Einweggebühr beträgt, finden Sie unter \"Kosten vor Ort\" im Angebot oder in den Mietbedingungen."
+
+# Winterreifenpflicht
+#, 23.01.2023 10:00:58
+msgid "note_snowtires_58_title"
+msgstr "Winterreifenpflicht"
+
+#, 06.02.2023 18:53:38
+msgid "note_snowtires_2_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 10:57:07
+msgid "note_snowtires_14_title"
+msgstr "Winterreifenpflicht"
+
+# Teilweise Winterreifenpflicht
+#, 23.01.2023 11:00:53
+msgid "note_snowtires_111_title"
+msgstr "Teilweise Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:02:40
+msgid "note_snowtires_111.6292_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:30:14
+msgid "note_snowtires_44_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifen empfohlen
+#, 23.01.2023 11:16:23
+msgid "note_snowtires_76_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:18:15
+msgid "note_snowtires_203_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:20:29
+msgid "note_snowtires_71_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifen empfohlen
+#, 23.01.2023 11:22:14
+msgid "note_snowtires_168_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifenpflicht
+#, 23.03.2021 07:55:16
+msgid "note_snowtires_192_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:25:47
+msgid "note_snowtires_200_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:32:37
+msgid "note_snowtires_205_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:34:24
+msgid "note_snowtires_193_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:36:44
+msgid "note_snowtires_19_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:45:24
+msgid "note_snowtires_24_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:36:18
+msgid "note_snowtires_231_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:48:13
+msgid "note_snowtires_65_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:53:23
+msgid "note_snowtires_110_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:57:12
+msgid "note_snowtires_136_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:00:59
+msgid "note_snowtires_134_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:03:05
+msgid "note_snowtires_135_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:05:06
+msgid "note_snowtires_145_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:08:50
+msgid "note_snowtires_141_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:10:18
+msgid "note_snowtires_57_title"
+msgstr "Winterreifenpflicht"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:12:35
+msgid "note_snowtires_180_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:15:37
+msgid "note_snowtires_7_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:18:04
+msgid "note_snowtires_99_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:40:42
+msgid "note_snowtires_130_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:38:13
+msgid "note_snowtires_194_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:21:18
+msgid "note_snowtires_101_title"
+msgstr "Winterreifen empfohlen"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:22:30
+msgid "note_snowtires_60_title"
+msgstr "Winterreifen empfohlen"
+
+# Gegebenenfalls anfallende Gebühren sind im Gesamtpreis enthalten.
+#, 24.10.2022 10:05:47
+msgid "note_driverage_short"
+msgstr "Gegebenenfalls anfallende Gebühren sind im Gesamtpreis enthalten."
+
+# Bitte beachten Sie, dass der Hauptfahrer bei den meisten Vermietern <strong>mindestens 1 Jahr im Besitz einer gültigen Fahrerlaubnis</strong> sein muss. Eventuell anfallende <string>Jungfahrergebühren</strong> sind im Gesamtpreis bereits <strong>enthalten</strong>. Nähere Informationen finden Sie in den Mietbedingungen oder rufen Sie unsere Mietwagen-Experten an unter <span itemprop=\"hotline_number\"></span>.
+#, 24.10.2022 10:05:33
+msgid "note_driverage18_20"
+msgstr "Bitte beachten Sie, dass der Hauptfahrer bei den meisten Vermietern <strong>mindestens 1 Jahr im Besitz einer gültigen Fahrerlaubnis</strong> sein muss. Eventuell anfallende <string>%s</strong> sind im Gesamtpreis bereits <strong>enthalten</strong>."
+
+# Sie haben bei Ihrer Anfrage angegeben, dass Sie %d Jahre alt sind. Bei einigen Anbietern gelten für Ihre Altersgruppe Restriktionen. Sie sehen in der Angebotsliste nur Angebote, die für Sie buchbar sind. Eventuell anfallende %s sind im Gesamtpreis enthalten.
+#, 24.10.2022 10:03:26
+msgid "note_driverage"
+msgstr "In der Angebotsliste sehen Sie nur Angebote, die für Ihre Altersgruppe buchbar sind. Eventuell anfallende <strong>%s sind im Gesamtpreis enthalten</strong>."
+
+# zzgl. Kosten für Extras
+#, 23.03.2021 07:55:16
+msgid "extra_info_text_price_plus_extras"
+msgstr "zzgl. Kosten für Extras"
+
+# zzgl. Kosten vor Ort
+#, 25.02.2022 12:48:55
+msgid "extra_info_text_price_plus_at_station"
+msgstr "zzgl. Kosten vor Ort"
+
+# ggf. Kosten vor Ort
+#, 23.03.2021 07:55:16
+msgid "extra_info_text_price_possibly_at_station"
+msgstr "ggf. Kosten vor Ort"
+
+# ggf. zzgl. Kosten vor Ort
+#, 23.03.2021 07:55:16
+msgid "extra_info_text_price_possibly_plus_at_station"
+msgstr "ggf. zzgl. Kosten vor Ort"
+
+# Von: %s
+#, 23.03.2021 07:55:16
+msgid "category_departure_filter_long_name"
+msgstr "Von: %s"
+
+# Von: %s
+#, 23.03.2021 07:55:16
+msgid "category_availability_station_filter_long_name"
+msgstr "Von: %s"
+
+# Nach: %s
+#, 23.03.2021 07:55:16
+msgid "category_dest_filter_long_name"
+msgstr "Nach: %s"
+
+# Voraussetzungen zur Buchung
+#, 23.03.2021 07:55:16
+msgid "multiple_creditcards_message_title"
+msgstr "Voraussetzungen zur Buchung"
+
+# Für <b>hochwertige Fahrzeuge</b> fordert der Vermieter zwei auf den Hauptfahrer ausgestellte Kreditkarten, ein Mindestalter von 25 Jahren und eine Fahrerlaubnis seit 3 Jahren.
+#, 23.03.2021 07:55:16
+msgid "multiple_creditcards_message_description"
+msgstr "Für <b>hochwertige Fahrzeuge</b> fordert der Vermieter zwei auf den Hauptfahrer ausgestellte Kreditkarten, ein Mindestalter von 25 Jahren und eine Fahrerlaubnis seit 3 Jahren."
+
+# Zahlung bei Buchung %s
+#, 23.03.2021 07:55:16
+msgid "price_details_prepaid_total_per_payment_type"
+msgstr "Zahlung per %s"
+
+# Zahlung beim Vermieter vor Ort
+#, 01.04.2022 09:47:36
+msgid "price_details_postpaid_total"
+msgstr "Zahlung beim Vermieter vor Ort"
+
+# Alle Bewertungen
+#, 23.03.2021 07:55:16
+msgid "feedback_type_title_all"
+msgstr "Alle Bewertungen"
+
+# In %2$s
+#, 23.03.2021 07:55:16
+msgid "feedback_type_title_country"
+msgstr "In %2$s"
+
+# In %2$s
+#, 23.03.2021 07:55:16
+msgid "feedback_type_title_airport"
+msgstr "In %2$s"
+
+# In %2$s
+#, 23.03.2021 07:55:16
+msgid "feedback_type_title_destination"
+msgstr "In %2$s"
+
+# siehe Versicherungsbedingungen
+#, 21.02.2022 11:23:02
+msgid "insurance_terms_of"
+msgstr "siehe Versicherungsbedingungen"
+
+# Ohne Selbstbeteiligung (100% Rückerstattung)
+#, 23.03.2021 07:55:16
+msgid "insurance_comprehensive_deductible_no_reimbursement"
+msgstr "Ohne Selbstbeteiligung (100% Rückerstattung)"
+
+# Jetzt <strong>%s</strong> (%s oder ähnlich) statt %s buchen.
+#, 14.05.2024 13:20:10
+msgid "upgrade_rentalcar_category_text"
+msgstr "<strong>%s</strong>, z.B. %s statt %s für nur <strong>%s</strong> mehr pro Tag."
+
+# Jetzt <strong>größeren Transporter</strong> (%s oder ähnlich) buchen.
+#, 23.03.2021 07:55:16
+msgid "upgrade_rentalcar_special_category_text"
+msgstr "Jetzt <strong>größeren Transporter</strong> (%s oder ähnlich) buchen."
+
+# Jetzt <strong>%s</strong> (%s) statt %s buchen.
+#, 14.05.2024 13:20:26
+msgid "upgrade_rentalcar_category_text_guaranteed"
+msgstr "<strong>%s</strong>, z.B. %s statt %s für nur <strong>%s</strong> mehr pro Tag."
+
+#, 12.09.2023 15:04:20
+msgid "upgrade_rentalcar_category_label"
+msgstr "Tipp"
+
+# Jetzt <strong>größeren Transporter</strong> (%s) buchen.
+#, 23.03.2021 07:55:16
+msgid "upgrade_rentalcar_special_category_text_guaranteed"
+msgstr "Jetzt <strong>größeren Transporter</strong> (%s) buchen."
+
+#, 04.10.2023 08:30:01
+#~ msgid "note_available_immediately_fuel_rating_prefiltered_cheaper_action"
+#~ msgstr "Alle Angebote anzeigen"
+
+# Alle Angebote anzeigen
+#, 04.10.2023 08:30:02
+#~ msgid "note_available_immediately_fuel_rating_prefiltered_action"
+#~ msgstr "Alle Angebote anzeigen"
+
+# Produktbewertung
+#~ msgid "rating_product_label"
+#~ msgstr "Produktbewertung"
+
+#, 23.03.2021 07:55:16
+msgid "dep_datetime_change_error"
+msgstr "Änderung nicht möglich"
+
+#, 23.03.2021 07:55:16
+msgid "dest_datetime_change_error"
+msgstr "Änderung nicht möglich"
+
+#, 23.03.2021 07:55:16
+msgid "dep_datetime_change_requested"
+msgstr "außerhalb Öffnungszeiten"
+
+#, 23.03.2021 07:55:16
+msgid "dest_datetime_change_requested"
+msgstr "außerhalb Öffnungszeiten"
+
+msgid "openinghours_time_range_separator"
+msgstr " Uhr<br/>"
+
+#, 05.04.2023 08:54:23
+msgid "note_popularity_sort"
+msgstr "Die Sortierung basiert auf Buchungen, Kundenbewertungen und Preis."
+
+#, 05.04.2023 11:31:35
+msgid "note_price_sort"
+msgstr "Die Sortierung erfolgt rein nach aufsteigendem Gesamtpreis der Angebote."
+
+#, 05.04.2023 11:41:15
+msgid "note_renter_rating_sort"
+msgstr "Die Sortierung erfolgt rein nach absteigenden Kundenbewertungen für Vermieter."
+
+#, 05.04.2023 11:39:36
+msgid "note_rating_sort"
+msgstr "Die Sortierung erfolgt rein nach absteigender CHECK24 Bewertung."
+
+#, 14.06.2024 10:56:45
+msgid "note_popularity_sort_action_title"
+msgstr "Sortierung nach Beliebtheit"
+
+msgid "note_price_sort_action_title"
+msgstr "Sortierung nach niedrigstem Preis"
+
+msgid "note_renter_rating_sort_action_title"
+msgstr "Sortierung nach bester Kundenbewertung"
+
+msgid "note_rating_sort_action_title"
+msgstr "Sortierung nach höchster CHECK24 Bewertung"

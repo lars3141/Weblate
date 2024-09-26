@@ -1,0 +1,703 @@
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-09-23 12:33+0000\n"
+"Last-Translator: OpenAI <noreply-mt-openai@weblate.org>\n"
+"Language-Team: Spanish <https://weblate.mietwagen.check24.de/projects/"
+"automatic-translation-testing/github-pr-testing/es/>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7\n"
+
+# Größeres Auto
+#, 23.03.2021 07:55:16, fuzzy
+msgid "featured_offer_bigger_car__text"
+msgstr "Coche más grande"
+
+# Secret Offer
+#, 23.03.2021 07:55:16, fuzzy
+msgid "secret_offer_teaser_label"
+msgstr "Secret Offer"
+
+# GoldClub Offer
+#, 23.03.2021 07:55:16, fuzzy
+msgid "goldclub_offer_teaser_label"
+msgstr "Oferta GoldClub"
+
+# NAVI gratis
+#, 23.03.2021 07:55:16, fuzzy
+msgid "inclusive_offer_teaser_label"
+msgstr "GPS gratis"
+
+# Sie erhalten einen PAYBACK Punkt für jeden zweiten vollen Euro der Fahrzeugmiete (inkl. ausgewiesener Gebühren).
+# Auf zusätzlich von Ihnen gewählte Versicherungen und Extras bekommen Sie keine PAYBACK Punkte.<br />
+# Ihre PAYBACK Punkte werden Ihnen spätestens 3 Werktage nach Buchung des Mietwagens in gesperrter Form
+# gutgeschrieben. Die Freigabe Ihrer PAYBACK Punkte erfolgt 4 Wochen nach Fahrzeugrückgabe.<br />
+# PAYBACK Buchungen sind nicht mit anderen CHECK24-Aktionen kombinierbar.
+#, 23.03.2021 07:55:16, fuzzy
+msgid "payback_offer_text"
+msgstr ""
+"        Recibirás un punto PAYBACK por cada dos euros completos del precio "
+"del alquiler (incluidas las tasas indicadas).\n"
+"        No recibirás puntos PAYBACK por los seguros y extras adicionales que "
+"elijas.<br />\n"
+"        Los puntos PAYBACK se abonarán en tu cuenta en un plazo de 3 días "
+"laborables tras la reserva del coche de alquiler. Los puntos PAYBACK se "
+"liberarán 4 semanas después de la devolución del vehículo.<br />\n"
+"        Las reservas con PAYBACK no son combinables con otras promociones de "
+"CHECK24.\n"
+"    "
+
+# Inkl. Navigationssystem
+#, 23.03.2021 07:55:16, fuzzy
+msgid "filter_id_rentalcar_navigation"
+msgstr "Incluye sistema de navegación"
+
+# Inkl. Zusatzfahrer
+#, 23.03.2021 07:55:16, fuzzy
+msgid "filter_id_rentalcar_additional_drivers"
+msgstr "Conductor adicional incluido"
+
+# <span class=\"station-icon icon-symbols-city\">Stadt</span><span class=\"label\">Station</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rentalcar_station_infos_city_filter"
+msgstr ""
+"<span class=\"station-icon icon-symbols-city\">Ciudad</span><span class="
+"\"label\">Oficina</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">Station</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rentalcar_station_infos_single_airport_filter"
+msgstr ""
+"<span class=\"station-icon icon-symbols-airport\">Aeropuerto</span><span "
+"class=\"label\">Oficina</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">%s</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rentalcar_station_infos_airport_filter"
+msgstr ""
+"<span class=\"station-icon icon-symbols-airport\">Aeropuerto</span><span "
+"class=\"label\">%s</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">%s / %s</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rentalcar_station_infos_iata_airport_filter"
+msgstr ""
+"<span class=\"station-icon icon-symbols-airport\">Aeropuerto</span><span "
+"class=\"label\">%s / %s</span>"
+
+# <span class=\"station-icon icon-symbols-airport\">Flughafen</span><span class=\"label\">Station</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rentalcar_station_infos_multiple_airport_filter"
+msgstr ""
+"<span class=\"station-icon icon-symbols-airport\">Aeropuerto</span><span "
+"class=\"label\">Oficina</span>"
+
+# <strong>%s</strong>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "filter_station_selection_text_airport"
+msgstr "<strong>%s</strong>"
+
+# <strong>%s</strong>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "filter_station_selection_text_railway"
+msgstr "<strong>%s</strong>"
+
+# <strong>%s</strong>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "filter_station_selection_text_city"
+msgstr "<strong>%s</strong>"
+
+# <strong>%d Station</strong>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "filter_station_selection_text_station"
+msgstr "<strong>%d oficina</strong>"
+
+# <strong>%d Stationen</strong>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "filter_station_selection_text_stations"
+msgstr "<strong>%d oficinas</strong>"
+
+# Empfehlung der Redaktion
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_cheapest"
+msgstr "Recomendación de la redacción"
+
+# Mit Zusatzschutz
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_insurance_additional_included"
+msgstr "Con protección adicional"
+
+# Ohne Zusatzschutz
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_insurance_additional_none"
+msgstr "Sin seguro adicional"
+
+# Haftpflichtdeckung %h.s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_insurance_liability"
+msgstr "Cobertura de responsabilidad civil %h.s"
+
+# Ohne Selbstbeteiligung
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_insurance_deductible_withoutSb"
+msgstr "Sin franquicia"
+
+# Mit Selbstbeteiligung
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_insurance_deductible_withSb"
+msgstr "Con franquicia"
+
+# Unbegrenzte Freikilometer
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_free_miles_unlimited"
+msgstr "Kilometraje ilimitado"
+
+# Begrenzte Freikilometer
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_free_miles_limited"
+msgstr "Kilometraje limitado"
+
+# Freikilometer unbekannt
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_free_miles_unknown"
+msgstr "Kilometraje desconocido"
+
+# Tankregelung %s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_fuel_policy"
+msgstr "Política de combustible %s"
+
+#, 14.10.2022 14:22:18, fuzzy
+msgid "rating_product_charge_policy"
+msgstr "Política de combustible %s"
+
+# Sofort verfügbar
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_status_available"
+msgstr "Disponible inmediatamente"
+
+# Verfügbarkeit auf Anfrage
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_status_on_request"
+msgstr "Disponibilidad bajo petición"
+
+# keine Extras inklusive
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_extras_none"
+msgstr "No se incluyen extras"
+
+# inklusive %s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_product_extras_included"
+msgstr "incluido %s"
+
+# Anbieter %s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_supplier_label"
+msgstr "Proveedor %s"
+
+# Kundenempfehlungsquote
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_supplier_general"
+msgstr "Porcentaje de recomendación de los clientes"
+
+# Kundenempfehlungsquote <span class=\"detail\">%s%%</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_supplier_general_quote"
+msgstr "Recomendación de clientes <span class=\"detail\">%s%%</span>"
+
+# Service <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_supplier_claims"
+msgstr "Servicio <span class=\"detail\">%s</span>"
+
+# Schadensbearbeitung <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_points_supplier_claims"
+msgstr "Tramitación de daños <span class=\"detail\">%s</span>"
+
+# Reklamation/Kulanz <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_supplier_refund"
+msgstr "Reclamación / buena voluntad <span class=\"detail\">%s</span>"
+
+# Vermieter %s
+#, 25.02.2022 10:43:18, fuzzy
+msgid "rating_renter_label"
+msgstr "Proveedor %s"
+
+# Lokaler Vermieter
+#, 18.03.2024 09:16:40, fuzzy
+msgid "rating_renter_unknown_label"
+msgstr "Proveedor local"
+
+# Kundenempfehlungsquote <span class=\"detail\">%s%%</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_renter_feedback"
+msgstr ""
+"Tasa de recomendación de los clientes <span class=\"detail\">%s%%</span>"
+
+# Kundenempfehlungsquote
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_renter_feedback_none_label"
+msgstr "Tasa de recomendación de los clientes"
+
+# -
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_renter_feedback_none"
+msgstr "-"
+
+# Service vor Ort <span class=\"detail\">%s</span>
+#, 23.03.2021 07:55:16, fuzzy
+msgid "rating_renter_service"
+msgstr "Servicio en el mostrador <span class=\"detail\">%s</span>"
+
+# Beliebte Filter
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_category_popular"
+msgstr "Filtros populares"
+
+# Kundenbewertungen
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_rating"
+msgstr "Valoraciones de clientes"
+
+# Kundenbewertungen
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_renter_rating"
+msgstr "Valoraciones de clientes"
+
+# Vermieter / Anbieter
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_renter_supplier"
+msgstr "Proveedor"
+
+# weitere Leistungen
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_additional_services"
+msgstr "otros servicios"
+
+# Sitzanzahl
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_persons"
+msgstr "Número de asientos"
+
+# Abholstation
+#, 23.03.2021 07:55:16, fuzzy
+msgid "group_id_departure"
+msgstr "[X0X]%d oficinas[X20X]"
+
+# Rückgabestation
+#, 23.03.2021 07:55:16, fuzzy
+msgid "group_id_dest"
+msgstr "Oficina de devolución"
+
+# Abholstation
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_departure"
+msgstr "[X0X]%d oficinas[X20X]"
+
+# Fahrzeugklasse
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_size_type"
+msgstr "Categoría de vehículo"
+
+# Tankregelung
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_fuel_policy"
+msgstr "Política de combustible"
+
+#, 14.10.2022 10:47:04, fuzzy
+msgid "category_id_charge_policy"
+msgstr "Política de combustible"
+
+# Versicherungsschutz
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_insurance"
+msgstr "Cobertura del seguro"
+
+# Zusatzversicherungen
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_id_additional_insurance"
+msgstr "Seguros adicionales"
+
+# Bei der Einwegmiete von %s nach %s kann der Anbieter eine zusätzliche Einweggebühr erheben, die nicht in den angezeigten Preisen enthalten ist. Ob eine Einweggebühr anfällt und wieviel die Einweggebühr beträgt, finden Sie unter \"Kosten vor Ort\" im Angebot oder in den Mietbedingungen.
+#, 23.03.2021 07:55:16, fuzzy
+msgid "note_additional_costs_for_one_way"
+msgstr ""
+"En el caso de un alquiler de un solo trayecto de %s a %s, el proveedor puede "
+"cobrar una tasa adicional por el alquiler de un solo trayecto que no está "
+"incluida en los precios mostrados. Puedes encontrar información sobre si se "
+"aplica una tasa de alquiler de un solo trayecto y cuánto es en la oferta o "
+"en las condiciones de alquiler."
+
+# Winterreifenpflicht
+#, 23.01.2023 10:00:58, fuzzy
+msgid "note_snowtires_58_title"
+msgstr "Proveedor %s"
+
+#, 06.02.2023 18:53:38, fuzzy
+msgid "note_snowtires_2_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 10:57:07, fuzzy
+msgid "note_snowtires_14_title"
+msgstr "Proveedor %s"
+
+# Teilweise Winterreifenpflicht
+#, 23.01.2023 11:00:53, fuzzy
+msgid "note_snowtires_111_title"
+msgstr "Uso de neumáticos de invierno parcialmente obligatorio"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:02:40, fuzzy
+msgid "note_snowtires_111.6292_title"
+msgstr "Proveedor %s"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:30:14, fuzzy
+msgid "note_snowtires_44_title"
+msgstr "Neumáticos de invierno recomendados"
+
+# Winterreifen empfohlen
+#, 23.01.2023 11:16:23, fuzzy
+msgid "note_snowtires_76_title"
+msgstr "Neumáticos de invierno recomendados"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:18:15, fuzzy
+msgid "note_snowtires_203_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:20:29, fuzzy
+msgid "note_snowtires_71_title"
+msgstr "Proveedor %s"
+
+# Winterreifen empfohlen
+#, 23.01.2023 11:22:14, fuzzy
+msgid "note_snowtires_168_title"
+msgstr "Se recomienda neumáticos de invierno"
+
+# Winterreifenpflicht
+#, 23.03.2021 07:55:16, fuzzy
+msgid "note_snowtires_192_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:25:47, fuzzy
+msgid "note_snowtires_200_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:32:37, fuzzy
+msgid "note_snowtires_205_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:34:24, fuzzy
+msgid "note_snowtires_193_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:36:44, fuzzy
+msgid "note_snowtires_19_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:45:24, fuzzy
+msgid "note_snowtires_24_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:36:18, fuzzy
+msgid "note_snowtires_231_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:48:13, fuzzy
+msgid "note_snowtires_65_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:53:23, fuzzy
+msgid "note_snowtires_110_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 11:57:12, fuzzy
+msgid "note_snowtires_136_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:00:59, fuzzy
+msgid "note_snowtires_134_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:03:05, fuzzy
+msgid "note_snowtires_135_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:05:06, fuzzy
+msgid "note_snowtires_145_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:08:50, fuzzy
+msgid "note_snowtires_141_title"
+msgstr "Proveedor %s"
+
+# Winterreifenpflicht
+#, 23.01.2023 12:10:18, fuzzy
+msgid "note_snowtires_57_title"
+msgstr "Proveedor %s"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:12:35, fuzzy
+msgid "note_snowtires_180_title"
+msgstr "Se recomienda el uso de neumáticos de invierno"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:15:37, fuzzy
+msgid "note_snowtires_7_title"
+msgstr "Se recomienda neumáticos de invierno"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:18:04, fuzzy
+msgid "note_snowtires_99_title"
+msgstr "Se recomienda reservar neumáticos de invierno"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:40:42, fuzzy
+msgid "note_snowtires_130_title"
+msgstr "Neumáticos de invierno recomendados"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:38:13, fuzzy
+msgid "note_snowtires_194_title"
+msgstr "Se recomienda neumáticos de invierno"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:21:18, fuzzy
+msgid "note_snowtires_101_title"
+msgstr "Se recomienda neumáticos de invierno"
+
+# Winterreifen empfohlen
+#, 23.01.2023 12:22:30, fuzzy
+msgid "note_snowtires_60_title"
+msgstr "Se recomienda reservar neumáticos de invierno"
+
+# Gegebenenfalls anfallende Gebühren sind im Gesamtpreis enthalten.
+#, 24.10.2022 10:05:47, fuzzy
+msgid "note_driverage_short"
+msgstr "Las posibles tasas están incluidas en el precio total."
+
+# Bitte beachten Sie, dass der Hauptfahrer bei den meisten Vermietern <strong>mindestens 1 Jahr im Besitz einer gültigen Fahrerlaubnis</strong> sein muss. Eventuell anfallende <string>Jungfahrergebühren</strong> sind im Gesamtpreis bereits <strong>enthalten</strong>. Nähere Informationen finden Sie in den Mietbedingungen oder rufen Sie unsere Mietwagen-Experten an unter <span itemprop=\"hotline_number\"></span>.
+#, 24.10.2022 10:05:33, fuzzy
+msgid "note_driverage18_20"
+msgstr ""
+"Ten en cuenta que la mayoría de los proveedores requieren que el conductor "
+"principal tenga un <strong>permiso de conducir válido desde hace al menos 1 "
+"año</strong>. Los <strong>posibles suplementos</strong> ya están "
+"<strong>incluidos</strong> en el precio total."
+
+# Sie haben bei Ihrer Anfrage angegeben, dass Sie %d Jahre alt sind. Bei einigen Anbietern gelten für Ihre Altersgruppe Restriktionen. Sie sehen in der Angebotsliste nur Angebote, die für Sie buchbar sind. Eventuell anfallende %s sind im Gesamtpreis enthalten.
+#, 24.10.2022 10:03:26, fuzzy
+msgid "note_driverage"
+msgstr ""
+"En la lista de ofertas solo verás ofertas que se pueden reservar para tu "
+"grupo de edad. Los posibles <strong>%s están incluidos en el precio "
+"total</strong>."
+
+# zzgl. Kosten für Extras
+#, 23.03.2021 07:55:16, fuzzy
+msgid "extra_info_text_price_plus_extras"
+msgstr "Costes adicionales por extras"
+
+# zzgl. Kosten vor Ort
+#, 25.02.2022 12:48:55, fuzzy
+msgid "extra_info_text_price_plus_at_station"
+msgstr "Costes adicionales a pagar en la recogida"
+
+# ggf. Kosten vor Ort
+#, 23.03.2021 07:55:16, fuzzy
+msgid "extra_info_text_price_possibly_at_station"
+msgstr "Posibles costes adicionales"
+
+# ggf. zzgl. Kosten vor Ort
+#, 23.03.2021 07:55:16, fuzzy
+msgid "extra_info_text_price_possibly_plus_at_station"
+msgstr "Posibles costes adicionales en el mostrador"
+
+# Von: %s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_departure_filter_long_name"
+msgstr "Desde: %s"
+
+# Von: %s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_availability_station_filter_long_name"
+msgstr "Desde: %s"
+
+# Nach: %s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "category_dest_filter_long_name"
+msgstr "A: %s"
+
+# Voraussetzungen zur Buchung
+#, 23.03.2021 07:55:16, fuzzy
+msgid "multiple_creditcards_message_title"
+msgstr "Requisitos para reservar"
+
+# Für <b>hochwertige Fahrzeuge</b> fordert der Vermieter zwei auf den Hauptfahrer ausgestellte Kreditkarten, ein Mindestalter von 25 Jahren und eine Fahrerlaubnis seit 3 Jahren.
+#, 23.03.2021 07:55:16, fuzzy
+msgid "multiple_creditcards_message_description"
+msgstr ""
+"Para <b>vehículos de alta gama</b>, el proveedor requiere dos tarjetas de "
+"crédito a nombre del conductor principal, una edad mínima de 25 años y un "
+"permiso de conducir de 3 años."
+
+# Zahlung bei Buchung %s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "price_details_prepaid_total_per_payment_type"
+msgstr "Pago con %s"
+
+# Zahlung beim Vermieter vor Ort
+#, 01.04.2022 09:47:36, fuzzy
+msgid "price_details_postpaid_total"
+msgstr "Pago al proveedor local"
+
+# Alle Bewertungen
+#, 23.03.2021 07:55:16, fuzzy
+msgid "feedback_type_title_all"
+msgstr "Todas las valoraciones"
+
+# In %2$s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "feedback_type_title_country"
+msgstr "En %2$s"
+
+# In %2$s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "feedback_type_title_airport"
+msgstr "En %2$s"
+
+# In %2$s
+#, 23.03.2021 07:55:16, fuzzy
+msgid "feedback_type_title_destination"
+msgstr "En %2$s"
+
+# siehe Versicherungsbedingungen
+#, 21.02.2022 11:23:02, fuzzy
+msgid "insurance_terms_of"
+msgstr "Consulta las condiciones del seguro"
+
+# Ohne Selbstbeteiligung (100% Rückerstattung)
+#, 23.03.2021 07:55:16, fuzzy
+msgid "insurance_comprehensive_deductible_no_reimbursement"
+msgstr "Sin franquicia (reembolso del 100%)"
+
+# Jetzt <strong>%s</strong> (%s oder ähnlich) statt %s buchen.
+#, 14.05.2024 13:20:10, fuzzy
+msgid "upgrade_rentalcar_category_text"
+msgstr ""
+"<strong>%s</strong>, p. ej. %s en lugar de %s por solo <strong>%s</strong> "
+"más al día."
+
+# Jetzt <strong>größeren Transporter</strong> (%s oder ähnlich) buchen.
+#, 23.03.2021 07:55:16, fuzzy
+msgid "upgrade_rentalcar_special_category_text"
+msgstr "Reserva ahora un <strong>camión más grande</strong> (%s o similar)."
+
+# Jetzt <strong>%s</strong> (%s) statt %s buchen.
+#, 14.05.2024 13:20:26, fuzzy
+msgid "upgrade_rentalcar_category_text_guaranteed"
+msgstr ""
+"<strong>%s</strong>, p. ej. %s en lugar de %s por solo <strong>%s</strong> "
+"más al día."
+
+#, 12.09.2023 15:04:20, fuzzy
+msgid "upgrade_rentalcar_category_label"
+msgstr "Consejo"
+
+# Jetzt <strong>größeren Transporter</strong> (%s) buchen.
+#, 23.03.2021 07:55:16, fuzzy
+msgid "upgrade_rentalcar_special_category_text_guaranteed"
+msgstr "Reserva ahora un <strong>camión más grande</strong> (%s)."
+
+#, 04.10.2023 08:30:01
+#~ msgid "note_available_immediately_fuel_rating_prefiltered_cheaper_action"
+#~ msgstr "Alle Angebote anzeigen"
+
+# Alle Angebote anzeigen
+#, 04.10.2023 08:30:02
+#~ msgid "note_available_immediately_fuel_rating_prefiltered_action"
+#~ msgstr "Alle Angebote anzeigen"
+
+# Produktbewertung
+#~ msgid "rating_product_label"
+#~ msgstr "Produktbewertung"
+
+#, 23.03.2021 07:55:16, fuzzy
+msgid "dep_datetime_change_error"
+msgstr "No es posible realizar cambios"
+
+#, 23.03.2021 07:55:16, fuzzy
+msgid "dest_datetime_change_error"
+msgstr "No es posible realizar cambios"
+
+#, 23.03.2021 07:55:16, fuzzy
+msgid "dep_datetime_change_requested"
+msgstr "Fuera del horario de apertura"
+
+#, 23.03.2021 07:55:16, fuzzy
+msgid "dest_datetime_change_requested"
+msgstr "Fuera del horario de apertura"
+
+#, fuzzy
+msgid "openinghours_time_range_separator"
+msgstr " h<br/>"
+
+#, 05.04.2023 08:54:23, fuzzy
+msgid "note_popularity_sort"
+msgstr ""
+"La clasificación se basa en las reservas, las valoraciones de los clientes y "
+"el precio."
+
+#, 05.04.2023 11:31:35, fuzzy
+msgid "note_price_sort"
+msgstr "La clasificación se basa únicamente en el precio total de las ofertas."
+
+#, 05.04.2023 11:41:15, fuzzy
+msgid "note_renter_rating_sort"
+msgstr ""
+"La clasificación se basa únicamente en las valoraciones de los clientes de "
+"los proveedores."
+
+#, 05.04.2023 11:39:36, fuzzy
+msgid "note_rating_sort"
+msgstr ""
+"La clasificación se basa únicamente en la valoración de CHECK24 de mayor a "
+"menor."
+
+#, 14.06.2024 10:56:45, fuzzy
+msgid "note_popularity_sort_action_title"
+msgstr "Ordenar por popularidad"
+
+#, fuzzy
+msgid "note_price_sort_action_title"
+msgstr "Ordenar por precio más bajo"
+
+#, fuzzy
+msgid "note_renter_rating_sort_action_title"
+msgstr "Ordenar por mejor valoración de los clientes"
+
+#, fuzzy
+msgid "note_rating_sort_action_title"
+msgstr "Ordenar por mejor valoración CHECK24"
