@@ -655,3 +655,6 @@ msgstr "Sortierung nach bester Kundenbewertung"
 
 msgid "note_rating_sort_action_title"
 msgstr "Sortierung nach höchster CHECK24 Bewertung"
+
+msgid "new_token"
+msgstr "Neuer Token in Feature Branch"
